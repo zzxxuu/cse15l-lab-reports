@@ -14,7 +14,7 @@
 ![Image](截屏2022-04-01 下午2.52.39.png)
 
 * Get your account from 
-https://sdacs.ucsd.edu/~icc/index.php, and use $ ssh cs15lsp22zz@ieng6.ucsd.edu to connect to the server
+https://sdacs.ucsd.edu/~icc/index.php, and use ```$ ssh cs15lsp22zz@ieng6.ucsd.edu``` to connect to the server
 * Type yes to the question that pops up, and enter your tritonlink password to connect to a computer in the CSE basement. 
 
 ### Trying some commands
@@ -49,3 +49,4 @@ and log into ieng6 with ssh again, and use ls
 * There are more than one way to optimize this remote running. First, I made OtherMain.java instead of editing WhereAmI.java directly. 
 * Then, use scp to move it to the server
 * log in using ssh, and complie and run OtherMain.java there. 
+
