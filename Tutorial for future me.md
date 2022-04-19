@@ -46,7 +46,5 @@ and log into ieng6 with `ssh `again, and use `ls`
 
 ![Image](截屏2022-04-18 下午6.41.58.png)
 
-* There are more than one way to optimize this remote running. First, I made OtherMain.java instead of editing WhereAmI.java directly. 
-* Then, use `scp` to move it to the server
-* log in using `ssh`, and complie and run OtherMain.java there. 
+* There are more than one way to optimize this remote running. For example you can run multiple commands on one line with semicolons like I showed above
 
