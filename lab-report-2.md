@@ -4,7 +4,7 @@
 ### First Code Change
 ![Image](截屏2022-04-24 下午4.49.45.png)
 
-* Link to failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file4.md]https://github.com/zzxxuu/markdown-parser/blob/main/test-file4.md
+* Link to failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file4.md](https://github.com/zzxxuu/markdown-parser/blob/main/test-file4.md)
 
 
 ![Image](截屏2022-04-24 下午4.55.05.png)
@@ -16,7 +16,7 @@
 ### Second Code Change
 ![Image](截屏2022-04-24 下午3.33.47.png)
 
-* Link to the failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file2.md]https://github.com/zzxxuu/markdown-parser/blob/main/test-file2.md
+* Link to the failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file2.md](https://github.com/zzxxuu/markdown-parser/blob/main/test-file2.md)
 
 
 ![Image](截屏2022-04-24 下午4.32.35.png)
@@ -26,7 +26,7 @@
 ### Third Code Change
 ![Image](截屏2022-04-24 下午3.34.57.png)
 
-* Link to the failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file3.md]https://github.com/zzxxuu/markdown-parser/blob/main/test-file3.md
+* Link to the failing test file: [https://github.com/zzxxuu/markdown-parser/blob/main/test-file3.md](https://github.com/zzxxuu/markdown-parser/blob/main/test-file3.md)
 
 
 ![Image](截屏2022-04-24 下午4.38.24.png)
