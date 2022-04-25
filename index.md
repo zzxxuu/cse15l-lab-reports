@@ -2,13 +2,12 @@
 
 ## Wabalubadada
 
-*你们这些战斗力只有5的渣渣，请欣赏：*
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&tbnid=DH7p1w2o_fIU8M&vet=12ahUKEwjLl8-buoX3AhXqLDQIHUtFDhcQMygAegUIARDdAQ..i&docid=Ba_eiczVaD9-zM&w=771&h=480&q=images&ved=2ahUKEwjLl8-buoX3AhXqLDQIHUtFDhcQMygAegUIARDdAQ)
----
 **Chrida-Ice 4 life**
+**Links to all the lab reports**
 
-[Lab Report 1](lab-report-1-week-2.html)
 
+[Lab Report 1](https://zzxxuu.github.io/cse15l-lab-reports/Tutorial%20for%20future%20me.html)
+[Lab Report 2](https://zzxxuu.github.io/cse15l-lab-reports/lab-report-2.html)
 
 
 
