@@ -8,8 +8,8 @@
 
 
 ![Image](截屏2022-05-02 下午4.52.57.png)
-* The problem here is that it is supposed to return just the URL links, but it is returning both the image and URL links.  The bug is that the code does not differentiate between image and URL links. What me and my partner did here is allow the code to identify "!" to differentiate between image and URL and only return URL.
-The failure-inducing file containd both of these, which is why we have the output shown above.  
+* The problem here is that it is supposed to return just the URL links, but it is returning both the image and URL links. The bug is that the code does not differentiate between image and URL links. What me and my partner did here is allow the code to identify "!" to differentiate between image and URL and only return URL.
+The test4-file containd both of these, which is why we have the output shown above.  
 
 
 
@@ -21,7 +21,7 @@ The failure-inducing file containd both of these, which is why we have the outpu
 
 
 ![Image](截屏2022-05-02 下午4.39.59.png)
-* The problem here is that the code never reaches the end of the infinite while loop, causing the error of heap space. Therefore, all of the elements in the test file would be go over and the code will never stop. Therefore, our group made this if statement to break the loop if it reaches the end of it. 
+* The problem here is that the code never reaches the end of the infinite while loop, causing the error of heap space. Therefore, all of the elements in the test file would be go over and the code will never stop. Therefore, our group made this if statement to break the loop if it reaches the end of it. Test file 2 casued this problem for it had a space in front of everything. 
 
 
 ### Third Code Change
