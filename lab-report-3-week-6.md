@@ -10,10 +10,11 @@ I edited the file by entering the host and hostname.
 
 ieng6, as my alia, loged me in my account without using my username and password. 
 
-![Image](截屏2022-05-08 下午3.08.18.png)
-![Image](截屏2022-05-08 下午3.09.03.png)
-![Image](截屏2022-05-08 下午3.09.27.png)
-
+![Image](截屏2022-05-16 下午6.05.11.png)
+![Image](截屏2022-05-16 下午6.05.53.png)
+![Image](截屏2022-05-16 下午6.06.21.png)
+![Image](截屏2022-05-16 下午6.06.40.png)
+![Image](截屏2022-05-16 下午6.07.09.png)
 I was able to use scp to move the file to the remote computer using the alia. 
 
 
@@ -24,10 +25,20 @@ I was able to use scp to move the file to the remote computer using the alia.
 The key was stored in my user account. 
 
 
-![Image](截屏2022-05-08 下午3.12.51.png)
-![Image](截屏2022-05-08 下午3.13.31.png)
+![Image](截屏2022-05-16 下午6.15.27.png)
+![Image](截屏2022-05-16 下午6.15.50.png)
 
 The private key is in the remote computer with ssh directry. As I shown here with `ls` command, you can tell becauae it is listed under there. 
+
+![Image](截屏2022-05-16 下午6.08.52.png)
+![Image](截屏2022-05-16 下午6.11.05.png)
+![Image](截屏2022-05-16 下午6.11.38.png)
+![Image](截屏2022-05-16 下午6.12.02.png)
+![Image](截屏2022-05-16 下午6.12.38.png)
+![Image](截屏2022-05-16 下午6.13.14.png)
+
+Above are showing using the `git` command to commit and push a change while logging into my ieng6 account
+
 
 ![Image](截屏2022-05-08 下午3.16.37.png)
 ![Image](截屏2022-05-08 下午3.17.16.png)
@@ -42,8 +53,8 @@ I used `vim` to change the `testfile`. To perform the follwing operations, `git 
 ![Image](截屏2022-05-16 上午1.27.39.png)
 ![Image](截屏2022-05-16 上午1.28.17.png)
 ![Image](截屏2022-05-16 上午1.29.04.png)
-![Image](截屏2022-05-16 上午1.32.04.png
-)
+![Image](截屏2022-05-16 上午1.32.04.png)
+![Image](截屏2022-05-16 下午6.13.41.png)
 
 Above are the process of coping `markdown-parser` to the remote computer. You can see that all of the required files are there when I use `ls` command. 
 
