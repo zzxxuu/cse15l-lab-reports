@@ -13,5 +13,5 @@ Tutorial%20for%20future%20me.html)
 
 [Lab Report 3](https://zzxxuu.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
-
+[Lab Report 4](https://zzxxuu.github.io/cse15l-lab-reports/lab-report-4-week8.html)
 
