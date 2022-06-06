@@ -29,5 +29,5 @@
 * The class's implementation is wrong while mine is correct
 
 * The problem with the given implementation is that it ignores situation where if there is something inserted between the link name and the link itself. In this example, there is ": <bar>" exist between the "]" and "(". Therefore, it should build more statement to deal with the situation, the part that shoul get changed is here:
-![Image](截屏2022-06-05 下午8.25.25.png).
+![Image](截屏2022-06-05 下午8.25.25.png)
 
