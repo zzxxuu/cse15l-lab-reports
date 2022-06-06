@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Lab Report 5
 
 ### First Test case
@@ -31,4 +32,6 @@
 * The problem with the given implementation is that it ignores situation where if there is something inserted between the link name and the link itself. In this example, there is ": <bar>" exist between the "]" and "(". Therefore, it should build more statement to deal with the situation, the part that shoul get changed is here:
 ![Image](截屏2022-06-05 下午8.25.25.png)
 
+=======
+>>>>>>> efe7babf5f88c6f4839a217a22e89af9ca0f2d5d
 
